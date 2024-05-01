@@ -1,1 +1,1 @@
-print("chupna")
+print("paad")
